@@ -1,11 +1,23 @@
 {
-    "editor.detectIndentation": true,
-    "editor.fontFamily": "Inconsolata, Menlo, monospace",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true, 
+        "**/node_modules": true,
+        "node_modules": true 
+    },
     "editor.fontSize": 14,
     "editor.tabSize": 2,
-    "workbench.colorTheme": "Dracula",
+    "editor.lineNumbers": "on",
+
+    "workbench.colorTheme": "Material Palenight for Operator Mono",
     "workbench.iconTheme": "material-icon-theme",
+
+    "editor.detectIndentation": true,
+    "editor.fontFamily": "Inconsolata, Menlo, monospace",
+
     // Vim settings
+    "vim.disableAnnoyingNeovimMessage": true,
+    "vim.autoindent": true,
     "vim.easymotion": true,
     "vim.incsearch": true,
     "vim.useSystemClipboard": true,

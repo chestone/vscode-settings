@@ -1,0 +1,18 @@
+{
+    "editor.detectIndentation": true,
+    "editor.fontFamily": "Inconsolata, Menlo, monospace",
+    "editor.fontSize": 14,
+    "editor.tabSize": 2,
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "material-icon-theme",
+    // Vim settings
+    "vim.easymotion": true,
+    "vim.incsearch": true,
+    "vim.useSystemClipboard": true,
+    "vim.useCtrlKeys": true,
+    "vim.hlsearch": true,
+    "explorer.confirmDragAndDrop": false,
+    "emmet.includeLanguages": {
+        "javascript": "html"
+    }
+}
